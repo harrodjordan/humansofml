@@ -7,15 +7,25 @@ Do you want to volunteer your time to curate the account for a week? [Fill out o
 
 ## Current Curation Schedule: 
 June 17-23: Jordan Harrod, [@jordanbharrod](http://twitter.com/jordanbharrod) - Admim/Creator of @HumandofML, Ph.D. Student at Harvard/MIT, YouTube Creator at [everydAI](http://www.youtube.com/c/everydAI) 
+
 June 24-30: 
+
 July 1-7:
+
 July 8-14: 
+
 July 15-21:
+
 July 22-28: 
+
 July 29-Aug 4: 
+
 Aug 5-11: 
+
 Aug 12-18: 
+
 Aug 19-25: 
+
 Aug 26-Sep 1: 
 
 ## Past Curators (w/ Twitter moments) 
