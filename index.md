@@ -5,6 +5,8 @@ Our goal is to engage the public on Artificial Intelligence and Machine Learning
 
 Do you want to volunteer your time to curate the account for a week? [Fill out our curation sign up form here!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
 
+The account manager, Jordan Harrod, can be found on Twitter as [@jordanbharrod](http://twitter.com/jordanbharrod), and can be reached via email at jordan.b.harrod at gmail dot com. Account guidelines can be found [here](https://docs.google.com/document/d/157yKT__FegEWZUhPNPccqfaTfQRx4wV10XPzycnHYEI/edit?usp=sharing). 
+
 ## Current Curation Schedule: 
 June 17-23: Jordan Harrod, [@jordanbharrod](http://twitter.com/jordanbharrod) - Admim/Creator of @HumandofML, Ph.D. Student at Harvard/MIT, YouTube Creator at [everydAI](http://www.youtube.com/c/everydAI) 
 
