@@ -10,9 +10,9 @@ The account manager, Jordan Harrod, can be found on Twitter as [@jordanbharrod](
 ## Current Curation Schedule: 
 June 17-23: Jordan Harrod, [@jordanbharrod](http://twitter.com/jordanbharrod) - Admim/Creator of @HumandofML, Ph.D. Student at Harvard/MIT, YouTube Creator at [everydAI](http://www.youtube.com/c/everydAI) 
 
-June 24-30: 
+June 24-30: On hiatus
 
-July 1-7:
+July 1-7: Kevin Yang (@YangKevinK) is currently a machine-learning scientist at Flagship VL56, where he develops machine-learning methods for proteins and other biological sequences. Previously, he was a graduate student at Caltech in Frances Arnold's lab, where he used machine learning and Bayesian optimization to engineer light-sensitive membrane proteins and worked on representing proteins in ways amenable to machine learning. Before attending Caltech, Kevin taught high school math and physics for three years at Animo Inglewood Charter High School through Teach for America. https://yangkky.github.io
 
 July 8-14: 
 
