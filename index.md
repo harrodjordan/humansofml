@@ -14,17 +14,17 @@ June 24-30: On hiatus
 
 July 1-7: Kevin Yang (@YangKevinK) is currently a machine-learning scientist at Flagship VL56, where he develops machine-learning methods for proteins and other biological sequences. Previously, he was a graduate student at Caltech in Frances Arnold's lab, where he used machine learning and Bayesian optimization to engineer light-sensitive membrane proteins and worked on representing proteins in ways amenable to machine learning. Before attending Caltech, Kevin taught high school math and physics for three years at Animo Inglewood Charter High School through Teach for America. https://yangkky.github.io
 
-July 8-14: 
+July 8-14: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
 
-July 15-21:
+July 15-21:[Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
 
-July 22-28: 
+July 22-28: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
 
-July 29-Aug 4: 
+July 29-Aug 4: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
 
-Aug 5-11: 
+Aug 5-11: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
 
-Aug 12-18: 
+Aug 12-18: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
 
 Aug 19-25: Blakeley H. Payne (@blakeleyhpayne) is a graduate research assistant at the MIT Media Lab where she studies the ethics of artificial intelligence. Specifically, she develops educational materials to teach children to be both conscientious consumers and designers of AI systems. Before joining MIT, she completed her undergraduate studies at the University of South Carolina, where she earned a B.S. in Computer Science and Mathematics. Blakeley has completed several AI internships at institutions such as Adobe, Inc., where she worked on building CNNs for masking problems and U.C. Berkeley where she worked on inverse reinforcement learning for self driving cars.
 
