@@ -26,8 +26,12 @@ Aug 5-11:
 
 Aug 12-18: 
 
-Aug 19-25: 
+Aug 19-25: Blakeley H. Payne (@blakeleyhpayne) is a graduate research assistant at the MIT Media Lab where she studies the ethics of artificial intelligence. Specifically, she develops educational materials to teach children to be both conscientious consumers and designers of AI systems. Before joining MIT, she completed her undergraduate studies at the University of South Carolina, where she earned a B.S. in Computer Science and Mathematics. Blakeley has completed several AI internships at institutions such as Adobe, Inc., where she worked on building CNNs for masking problems and U.C. Berkeley where she worked on inverse reinforcement learning for self driving cars.
 
 Aug 26-Sep 1: 
 
 ## Past Curators (w/ Twitter moments) 
+
+June 17-23: Jordan Harrod, [@jordanbharrod](http://twitter.com/jordanbharrod) - Admim/Creator of @HumandofML. [Twitter Moment](https://twitter.com/i/moments/1144570787174572032?s=13) 
+
+July 1-7: Kevin Yang [@YangKevinK](http://twitter.com/yangkevink) is currently a machine-learning scientist at Flagship VL56, where he develops machine-learning methods for proteins and other biological sequences. [Twitter Moment](https://twitter.com/i/moments/1147908911145656320?s=13)
