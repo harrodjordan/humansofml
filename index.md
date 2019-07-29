@@ -9,7 +9,7 @@ The account manager, Jordan Harrod, can be found on Twitter as [@jordanbharrod](
 
 ## Current Curation Schedule: 
 
-July 29-Aug 4: Santosh Gupta (@Santosh Styles) - NLP on scientific texts, for summarization, recommendation, and information retrieval
+July 29-Aug 4: Santosh Gupta (@SantoshStyles) - NLP on scientific texts, for summarization, recommendation, and information retrieval
 
 Aug 5-11: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
 
