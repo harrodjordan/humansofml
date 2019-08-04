@@ -9,8 +9,6 @@ The account manager, Jordan Harrod, can be found on Twitter as [@jordanbharrod](
 
 ## Current Curation Schedule: 
 
-July 29-Aug 4: Santosh Gupta (@SantoshStyles) - NLP on scientific texts, for summarization, recommendation, and information retrieval
-
 Aug 5-11: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
 
 Aug 12-18: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
@@ -32,3 +30,5 @@ Sep 23-29: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScB
 June 17-23: Jordan Harrod, [@jordanbharrod](http://twitter.com/jordanbharrod) - Admim/Creator of @HumandofML. [Twitter Moment](https://twitter.com/i/moments/1144570787174572032?s=13) 
 
 July 1-7: Kevin Yang [@YangKevinK](http://twitter.com/yangkevink) is currently a machine-learning scientist at Flagship VL56, where he develops machine-learning methods for proteins and other biological sequences. [Twitter Moment](https://twitter.com/i/moments/1147908911145656320?s=13)
+
+July 29-Aug 4: Santosh Gupta (@SantoshStyles) - NLP on scientific texts, for summarization, recommendation, and information retrieval. Twitter Moment to come 
