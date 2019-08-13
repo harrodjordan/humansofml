@@ -13,14 +13,13 @@ Aug 5-11: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBb
 
 Aug 12-18: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
 
-Aug 19-25: Blakeley H. Payne (@blakeleyhpayne) is a graduate research assistant at the MIT Media Lab where she studies the ethics of artificial intelligence. Specifically, she develops educational materials to teach children to be both conscientious consumers and designers of AI systems. Before joining MIT, she completed her undergraduate studies at the University of South Carolina, where she earned a B.S. in Computer Science and Mathematics. Blakeley has completed several AI internships at institutions such as Adobe, Inc., where she worked on building CNNs for masking problems and U.C. Berkeley where she worked on inverse reinforcement learning for self driving cars.
+Aug 19-25: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
 
 Aug 26-Sep 1: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
 
 Sep 2-8: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
 
-Sep 9-15: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
-
+Sep 9-15: Blakeley H. Payne (@blakeleyhpayne) is a graduate research assistant at the MIT Media Lab where she studies the ethics of artificial intelligence. Specifically, she develops educational materials to teach children to be both conscientious consumers and designers of AI systems. Before joining MIT, she completed her undergraduate studies at the University of South Carolina, where she earned a B.S. in Computer Science and Mathematics. Blakeley has completed several AI internships at institutions such as Adobe, Inc., where she worked on building CNNs for masking problems and U.C. Berkeley where she worked on inverse reinforcement learning for self driving cars.
 Sep 16-22: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
 
 Sep 23-29: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
