@@ -32,4 +32,4 @@ June 17-23: Jordan Harrod, [@jordanbharrod](http://twitter.com/jordanbharrod) - 
 
 July 1-7: Kevin Yang [@YangKevinK](http://twitter.com/yangkevink) is currently a machine-learning scientist at Flagship VL56, where he develops machine-learning methods for proteins and other biological sequences. [Twitter Moment](https://twitter.com/i/moments/1147908911145656320?s=13)
 
-July 29-Aug 4: Santosh Gupta (@SantoshStyles) - NLP on scientific texts, for summarization, recommendation, and information retrieval. Twitter Moment to come 
+July 29-Aug 4: Santosh Gupta (@SantoshStyles) - NLP on scientific texts, for summarization, recommendation, and information retrieval. [Twitter Moment](https://twitter.com/i/moments/1166714429888552967)
