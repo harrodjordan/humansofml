@@ -9,9 +9,6 @@ The account manager, Jordan Harrod, can be found on Twitter as [@jordanbharrod](
 
 ## Current Curation Schedule: 
 
-Sep 16-22: Laura Hanu (@HanuLaura) - In the last 2 years, I have worked as a Data Scientist at Visulytix, an AI start-up, working on developing deep learning models, from segmentation & object detection to GANs, for ophthalmic images. My main interests are in unsupervised learning and deep representations. Previously, I was part of Dr. Anil Bharath's BICV group at Imperial College London, working on 3D unsupervised learning models, and Professor Ralph Sinkus' group at King's College London, working on leveraging fractal properties in medical imaging. Some of my research interests include AI safety & explainability, neurotechnology and the underlying mechanisms of imagination and creativity. I have previously given talks about the work that I do e.g https://www.london.ai/speaker/laura-hanu/ and http://ucldata.com/syllabus.php
-For more information: https://laurahanu.github.io/
-
 Sep 23-29: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
 
 Sep 30-Oct 6: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
@@ -30,3 +27,5 @@ June 17-23: Jordan Harrod, [@jordanbharrod](http://twitter.com/jordanbharrod) - 
 July 1-7: Kevin Yang [@YangKevinK](http://twitter.com/yangkevink) is currently a machine-learning scientist at Flagship VL56, where he develops machine-learning methods for proteins and other biological sequences. [Twitter Moment](https://twitter.com/i/moments/1147908911145656320?s=13)
 
 July 29-Aug 4: Santosh Gupta (@SantoshStyles) - NLP on scientific texts, for summarization, recommendation, and information retrieval. [Twitter Moment](https://twitter.com/i/moments/1166714429888552967)
+
+Sep 16-22: Laura Hanu (@HanuLaura) - In the last 2 years, I have worked as a Data Scientist at Visulytix, an AI start-up, working on developing deep learning models, from segmentation & object detection to GANs, for ophthalmic images. [Twitter Moment](https://twitter.com/i/moments/1175885272849907713)
