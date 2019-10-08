@@ -9,21 +9,7 @@ The account manager, Jordan Harrod, can be found on Twitter as [@jordanbharrod](
 
 ## Current Curation Schedule: 
 
-Sep 23-29: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
-
-Sep 30-Oct 6: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
-
-Oct 7-13: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
-
-Oct 14-20: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
-
-Oct 21-27: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
-
-Oct 28-Nov 3: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
-
-Nov 4-10: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
-
-Nov 10-16: [Sign up for this week!](https://docs.google.com/forms/d/e/1FAIpQLScBbVwDcTv2Ve8RYLoSE1nw7odQBCdUnyL23Y4LKNhIoixQtw/viewform?usp=sf_link) 
+The account is currently on hiatus indefinitely due to a lack of interested curators. If you'd like to curate the account or are interested in helping to restart this effort, please contact [@jordanbharrod](http://twitter.com/jordanbharrod). 
 
 ## Past Curators (w/ Twitter moments) 
 
